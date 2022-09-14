@@ -26,3 +26,7 @@ function add(x,y){
     let sum = (x+y);
     return sum;
 }
+
+function isBetween(num){
+    return num >= 50 && num <= 100
+}
