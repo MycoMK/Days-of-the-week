@@ -1,12 +1,13 @@
 body{
-    background-image: url("chocolate-2.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url('2.jpg');
+    background-repeat: repeat;
+    background-size:cover;
     background-color: blueviolet;
 }
 h1{
     display: flex;
     justify-content: center;
+    color: rgb(4, 4, 4);
 }
 div{
     display: flex;
@@ -17,5 +18,7 @@ div{
     height: 40px;
     width: 65px;
     margin: 40px;
+    color: rgb(253, 253, 254);
+    background-color: rgb(32, 32, 33);
 
  }
