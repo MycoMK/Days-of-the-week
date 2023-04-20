@@ -1,0 +1,21 @@
+body{
+    background-image: url("chocolate-2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: blueviolet;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+
+ button{
+    height: 40px;
+    width: 65px;
+    margin: 40px;
+
+ }
